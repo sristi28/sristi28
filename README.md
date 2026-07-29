@@ -10,6 +10,7 @@
 🎓 B.Tech in **Electronics & Communication Engineering (VLSI)** from **Punjab Engineering College (PEC), Chandigarh**
 
 💡 Passionate about **VLSI Design, RTL Design, Verification, FPGA and ASIC Design**
+
 ---
 
 ## Technical Skills
