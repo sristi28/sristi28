@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sristi </h1>
-<h3 align="center">VLSI & Digital Design Enthusiast | M.Tech ECE (SPDD) @ DTU | Btech ECE (VLSI) </h3>
+<h3 align="center">VLSI & Digital Design Enthusiast | M.Tech ECE (SPDD) @ DTU | Btech ECE (VLSI) @PEC Chandigarh </h3>
 
 ---
 
