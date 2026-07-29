@@ -3,7 +3,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 🎓 Pursuing **M.Tech in Electronics & Communication Engineering (SPDD)** at **Delhi Technological University (DTU)**
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 - Verilog
@@ -41,7 +41,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Verification Trainee | Cadence Design Systems, Noida
 - Verified an APB Slave RTL module using a self-developed UVM testbench.
@@ -71,7 +71,7 @@
 
 ---
 
-## 📚 Relevant Coursework
+## Relevant Coursework
 
 - Digital Logic Design
 - HDL Based System Design
