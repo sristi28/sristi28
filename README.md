@@ -10,9 +10,6 @@
 🎓 B.Tech in **Electronics & Communication Engineering (VLSI)** from **Punjab Engineering College (PEC), Chandigarh**
 
 💡 Passionate about **VLSI Design, RTL Design, Verification, FPGA and ASIC Design**
-
-🌱 Currently learning **SystemVerilog, UVM, and Static Timing Analysis**
-
 ---
 
 ## Technical Skills
@@ -55,7 +52,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 APB Slave Verification using UVM
 - Designed and verified an APB Slave RTL module.
